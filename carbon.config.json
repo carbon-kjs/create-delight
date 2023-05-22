@@ -1,0 +1,8 @@
+{
+  "name": "create-delight",
+  "version": "1.0.0",
+  "author": "Mango is me#4092",
+  "minecraftVersion": "1.19.2",
+  "description": "Way to implement Farmer's Delight recipes into Create. Requires Farmer's Delight.",
+  "modloaders": ["forge", "fabric"]
+}
